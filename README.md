@@ -1,5 +1,5 @@
 # Temperature Converter
-## About this Project
+## About the Project
 This temperature converter project is a simple program that converts the temperature, provided via input from the user, from celsius to fahrenheit and vice versa.
 ## How to Use
 This program works using any Python interpreter. The user enters which temperature unit they're using and the temperature itself. After pressing Enter, the user is presented with the converted temperature opposite of what was selected from the first input.
