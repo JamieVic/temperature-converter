@@ -6,4 +6,4 @@ This program works using any Python interpreter. The user enters which temperatu
 ## How it Works
 The temptype and tempnum variables both hold input functions that take the temperature type to convert from and the temperature number to convert. After pressing Enter, an if/else statement determines which conversion algorithm to perform based on the temptype value, and prints the result as a floating number.
 
-For error handling, an if/else statement checks if the temptype variable was provided with either "Celsius" or "Fahrenheit" as a value. The try/except statement runs the program if a float number was provided in the tempnum variable.
+For error handling, an if/else statement checks if the temptype variable was provided with either "celsius" or "fahrenheit" as a value. The try/except statement runs the program if a float number was provided in the tempnum variable.
